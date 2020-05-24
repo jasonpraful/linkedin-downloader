@@ -1,5 +1,5 @@
 # LinkedIn Learning Downloader
-
+#### Based on [liranbg's linkedin-learning-downloader](https://github.com/liranbg/linkedin-learning-downloader)
 
 Asynchronous scraping tool to fetch LinkedIn-learning's courses videos.
 
